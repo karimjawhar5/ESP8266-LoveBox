@@ -1,4 +1,4 @@
-# LoveBox-esp8266
+# Love-Box
 ### The Box:
 A 'love box' is a box that can recieve a message from an web-app, and displays the message inside the box on the display, when a message is recieved it notifies the box holder with a spinning hear attached to a servo motor, and the emotion related to the message is expressed through an RGB led that displays the desired color from the messanger.
 
